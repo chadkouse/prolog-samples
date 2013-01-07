@@ -1,4 +1,4 @@
 prolog-examples
 ===============
 
-Prolog examples I made for Seven Languages in Seven Weeks
+Prolog examples I made for Seven Languages in Seven Weeks.
