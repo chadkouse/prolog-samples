@@ -1,6 +1,6 @@
 % example queries: 
 % wrote(elliottSmith, Song).
-% plays(Artist, piano).
+% plays(Artist, guitar).
 % genre(Band, rock).
 
 wrote(elliottSmith, xo).
